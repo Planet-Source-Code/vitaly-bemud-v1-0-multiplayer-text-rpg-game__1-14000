@@ -1,0 +1,21 @@
+[History]
+B0=BeMUD/mdlPc/Attack
+B1=BeMUD/mdlGlobalProcedures/GlobalOpenTags
+B2=BeMUD/mdlStartLoading/LoadFromDatabaseToMemory
+B3=BeMUD/mdlPcCommands/pcmdEmoteReady
+B4=BeMUD/mdlPc/HeShe
+B5=BeMUD/mdlPcCommands/pcmdMissileDelay
+B6=BeMUD/mdlPcCommands/pcmdHit
+B7=BeMUD/mdlPcCommands/pcmdApproach
+B8=BeMUD/mdlPcCommands/pcmdHitDelay
+B9=BeMUD/mdlPcCommands/pcmdMovement
+B10=BeMUD/mdlPcCommands/pcmdHelp
+B11=BeMUD/mdlPcCommands/pcmdGive
+B12=BeMUD/mdlMobCommands/mcmdHitDelay
+B13=BeMUD/mdlMob/AttackMob
+N0=BeMUD/frmMain/Form_Unload
+N1=BeMUD/frmMain/Form_Load
+N2=BeMUD/mdlMob/GetMobLook
+
+[Workbench]
+0=23   BeMUD/mdlMob/GetMobLook10   GetMobLook17   MembMethodPrivate1    01    0

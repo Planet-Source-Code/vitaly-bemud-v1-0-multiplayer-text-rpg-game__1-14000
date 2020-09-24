@@ -1,0 +1,1 @@
+Run the BeMud.exe file and connect to localhost 23.
